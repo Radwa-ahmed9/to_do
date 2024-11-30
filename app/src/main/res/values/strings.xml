@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">to_dooo</string>
+    <string name="to_do">Image Description</string>
+    <string name="image_desc">Image Description</string>
+    <string name="open">Open navigation drawer</string>
+    <string name="close">Close navigation drawer</string>
+    <string name="add">Image Description</string>
+    <string name="add_item">Image Description</string>
+</resources>
